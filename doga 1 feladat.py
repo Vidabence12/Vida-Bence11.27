@@ -13,4 +13,4 @@ elif forma == "négyzet":
     print(f"A négyzet területe: {terület:.2f} négyzetegység")
 
 else:
-    print("Érvénytelen választás! Kérlek, írj be 'kör' vagy 'négyzet' szót.")
+    print("érvénytelen választás! kérlek, írj be 'kör' vagy 'négyzet' szót.")
