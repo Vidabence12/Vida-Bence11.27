@@ -14,4 +14,4 @@ vegosszeg = osszeg - kedvezmeny
 
 print(f"eredeti összeg: {osszeg:.0f} Ft")
 print(f"kedvezmény: {szazalek}% ({kedvezmeny:.0f} Ft)")
-print(f"fizetendő végösszeg: {vegosszeg:.0f} Ft")
+print(f"fizetendő végösszeg: {vegosszeg:.0f} Ft")  

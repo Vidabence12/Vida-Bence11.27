@@ -14,4 +14,4 @@ if osszeg > 9:
 elif 6 <= osszeg <= 9:
     print("közepes dobás.")
 else:
-    print("kicsi dobás.")
+    print("kicsi dobás.") 
